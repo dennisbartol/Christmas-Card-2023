@@ -15,3 +15,9 @@ function bubbles() {
         bubble.style.height = 1 + size + 'px';
 
         bubble.style.animationDuration = 6 + size + 's';
+
+     section.appendChild(bubble);  
+      i++;
+    }
+  }
+bubbles();
