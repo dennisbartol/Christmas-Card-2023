@@ -60,3 +60,22 @@ section .box .circle::before {
     border-radius: 35%; 
 }
 
+section .box .circle h3 {
+    position: absolute; 
+    z-index: 2;
+    font-size: 2em; 
+    color: #ff2a2a;  
+    text-align: center;
+}
+
+
+section .box .circle h2 {
+  position: absolute; 
+  top: 250px; 
+  z-index: 2;
+  font-size: 2em; 
+  color: #ff2a2a;  
+  text-align: center;
+}
+
+
