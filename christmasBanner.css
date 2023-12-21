@@ -17,3 +17,9 @@ section {
     height: 100vh;
     background: crimson; 
 }
+
+section .box { 
+    position: absolute; 
+    width: 430px; 
+    height: 430px; 
+}
