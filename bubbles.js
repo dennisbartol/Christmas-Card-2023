@@ -4,7 +4,7 @@ function bubbles() {
      let i = 0; 
 
   while (i < count) {
-          let bubble = document.creatElement('i');
+          let bubble = document.createElement('i');
           let x = Math.floor(Math.random() * window.innerWidth);
           let y = Math.floor(Math.random() * window.innerHeight);
   
